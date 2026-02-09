@@ -8,7 +8,7 @@ martin <- tibble::tibble(
 ## A bit about me :)
 
 ```r
-about_me <- martin|>
+about_me <- martin |>
   dplyr::mutate(
     name = "Martín Venegas Márquez",
     located_in = "Santiago, Chile",
@@ -18,7 +18,7 @@ about_me <- martin|>
       "Professional degree in Sociology",
       "Bachelor's degree in Sociology"
     ),
-    company = "Instituto Nacional de Estadísticas de Chile (INE)",
+    company = "National Institute of Statistics of Chile (INE)",
     fields_of_interests = c(
       "Applied Statistics",
       "Survey Methodology",
