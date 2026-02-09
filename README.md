@@ -5,7 +5,7 @@ martin <- tibble::tibble(
 )
 ```
 
-## A bit about me :)
+# A bit about me :)
 
 ```r
 about_me <- martin |>
