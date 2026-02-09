@@ -15,7 +15,7 @@ about_me <- martin |>
     current_job = "Socioeconomic Analyst | Survey Analyst",
     education = c(
       "Graduate Diploma in Statistics",
-      "Professional degree in Sociology",
+      "Professional certificate in Sociology",
       "Bachelor's degree in Sociology"
     ),
     company = "National Institute of Statistics of Chile (INE)",
